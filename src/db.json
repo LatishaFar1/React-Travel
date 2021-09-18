@@ -1,0 +1,15 @@
+{
+  "TV Shows": [{ "id": 1, "name": "The Handmaid's Tale", "img": "" }],
+  "Movies": [
+    {
+      "id": 1,
+      "name": "The Old Guard",
+      "img": ""
+    },
+    {
+      "id": 2,
+      "name": "Rush Hour",
+      "img": ""
+    }
+  ]
+}
