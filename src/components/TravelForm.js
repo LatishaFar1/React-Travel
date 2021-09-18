@@ -1,5 +1,9 @@
 function TravelForm() {
-  return <></>;
+  return (
+    <>
+      <form></form>
+    </>
+  );
 }
 
 export default TravelForm;

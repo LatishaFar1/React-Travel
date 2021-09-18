@@ -1,3 +1,5 @@
+import TravelForm from "./TravelForm";
+
 function Destinations() {
   return (
     <>
