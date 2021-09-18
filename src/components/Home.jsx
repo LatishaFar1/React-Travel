@@ -12,8 +12,9 @@ function Home() {
             <br />
             _____________________
           </p>
-          <div class="home-img">
+          <div className="home-img">
             <img
+              className="home-img2"
               src="https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
               alt="home logo"
             />
