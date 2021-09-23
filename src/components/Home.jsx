@@ -8,7 +8,7 @@ function Home() {
         <div className="home-desc-box">
           <h3> About this demo</h3>
           <p>
-            _____________________ place desc here
+            _____________________ Welcome to one of my demo React sites!
             <br />
             _____________________
           </p>
