@@ -8,11 +8,13 @@ function Destinations() {
     <>
       <h1 className="title"> Destinations </h1>
       <div className="side-travelform">
-        <button className="button" onClick={() => setHidden(!show)}>
-          {" "}
-          show submission form{" "}
-        </button>
-        {show ? <TravelForm /> : null}
+        <div className="side-travelform-inner">
+          <button className="button" onClick={() => setHidden(!show)}>
+            {" "}
+            show submission form{" "}
+          </button>
+          {show ? <TravelForm /> : null}
+        </div>
       </div>
     </>
   );

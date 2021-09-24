@@ -1,15 +1,14 @@
 {
-  "TV Shows": [{ "id": 1, "name": "The Handmaid's Tale", "img": "" }],
-  "Movies": [
+  "Destinations": [
     {
       "id": 1,
-      "name": "The Old Guard",
-      "img": ""
+      "location": "",
+      "img_url": ""
     },
     {
       "id": 2,
-      "name": "Rush Hour",
-      "img": ""
+      "location": "",
+      "img_url": ""
     }
   ]
 }

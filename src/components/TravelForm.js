@@ -3,11 +3,11 @@ function TravelForm() {
     <>
       <form className="TravelForm">
         <div>
-          <label>LOCATION: </label>
+          <label className="dest-label">LOCATION: </label>
 
           <input name="Location" type="text" />
           <br />
-          <label>IMG URL: </label>
+          <label className="dest-label">IMG URL: </label>
           <input
             name="IMG URL"
             placeholder="Paste a URL of an image of the destination"

@@ -11,6 +11,9 @@ function Home() {
             _____________________ Welcome to one of my demo React sites!
             <br />
             _____________________
+            <br />
+            you can submit a photo of a vacation destination in the
+            "destinations tab"
           </p>
           <div className="home-img">
             <img

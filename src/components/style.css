@@ -43,14 +43,14 @@ nav a {
 }
 
 .home-img {
-  margin: 200px;
+  margin: 190px;
   padding: 90px;
   position: relative;
-  top: -485px;
+  top: -575px;
 }
 
 .home-img2 {
-  height: 943px;
+  height: 765px;
   border-color: aquamarine;
   border-style: solid;
 }
@@ -66,6 +66,12 @@ nav a {
 .img-footer {
   padding: 20px;
 }
+
+/* Travel Form */
+.dest-label {
+  font-weight: bold;
+  font-family: Bebas Neue;
+}
 /* 
 Destinations */
 .button {
@@ -74,4 +80,14 @@ Destinations */
   font-size: 20px;
   font-family: Bebas Neue;
   border-radius: 5px;
+}
+
+.side-travelform {
+  display: flex;
+  justify-content: start;
+  margin-left: 2rem;
+}
+
+.side-travelform-inner {
+  background-color: floralwhite;
 }
